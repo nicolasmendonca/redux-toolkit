@@ -101,6 +101,7 @@ export {
   AsyncThunkAction,
   AsyncThunkPayloadCreatorReturnValue,
   AsyncThunkPayloadCreator,
+  BaseThunkAPI,
   createAsyncThunk,
   unwrapResult,
   SerializedError
